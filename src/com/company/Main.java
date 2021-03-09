@@ -64,7 +64,6 @@ public class Main {
                 System.out.println("Thank you for checking available girls,\nREMEMBER TO COME BACK WE MAY HAVE MORE###");
                 System.exit(0);
             }
-	}
 
             //Querrying the user if he/she wants to continue
             System.out.println("Would you want to continue ?\n\t1. Yes\n\t2. No");
